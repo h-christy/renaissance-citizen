@@ -1,0 +1,89 @@
+---
+title: 'Context'
+bibliography: causal.bib
+---
+# Context
+
+## Kuwait
+
+- 1961, Independence
+- 
+### Muslim Brotherhood
+
+- 1951, Kuwaiti Branch of MB founded
+- 1960s, 1970s government support
+- 1970s had some successes in parliamentary election because of the decline of Arab nationalism(@hamidRethinkingPoliticalIslam2017, p.134)
+- 1980s Appears as a major political force; spread of revolutionary Islamist ideas
+> guided primarily by the goal of Islamizing Kuwaiti society by taking measures such as pushing gender segregation in education, restricting the availabilitu of alcohol, and limiting nationality solely to Muslims.
+> Kuwait's activist Salafis also became politically organized in this period
+> The internal split of the MB, hardliners reject political participation in an un-Islamic government.
+
+- 1982, Kuwait Nationality Law(@alkandariMuslimBrotherhoodKuwait2023, pp. 202-203)
+- 
+- 1986, July the dissolution of parliament.
+- 1991 Islamic Constitutional Movement (@hamidRethinkingPoliticalIslam2017, p. 132-133)
+- Abdullah Al-Nafisi: the enemy of the islamic movement is the regime^[@hamidRethinkingPoliticalIslam2017, p. 135]
+
+### Salafi Movement
+
+#### The quietist
+
+- apolitical focus on charity and education
+- 1970s, find followings amone merchant family^[@hamidRethinkingPoliticalIslam2017, pp. 138-140]
+- 1980s, labor org and student unions
+- 1981, Revival of the Islamic Heritage (RIHS) (Ideology from Egyptian Cleric Shakh Abdal al Rahman Abd al-Khaliq, support from gov and Saudis), 1986, returning the parliamentary life to Kuwait
+- Iraq Invasion: Sahwa in Saudi Arabia
+
+
+#### Sahwa
+
+> Sahwa, the Islamic Awakening (al-Sahwa al-Islamiyya) that emerged in the 1980s and challenged the political dominance of the ruling familiy, largely influenced by the MB network, Sahwa Clerics(@hamidRethinkingPoliticalIslam2017, pp. 122-124)
+>
+
+# Conceptualization
+
+
+## How Arabs in th 1980s understand...
+
+### Political Islam
+
+#### Islamic Movements
+
+For Egyptians, the answer might be Muslim Brotherhood
+
+#### Religious Awakening
+
+For Palestinians, this might mean the Intifada
+
+### Relgiousity: What it meant to be a faithful Muslim?
+
+- in the Sunni context specifically, to be a Muslim means to practice the five pillars of Islam
+- The reason I need to provide description on this, is because I am grouping `quran_freq` and `ref_relg` together rather than with `ramadan_fast`, `prayer_freq` and `mosque_freq`
+- Reading Quran and refering to religious teachings are those practices that are emphasized by ex. Muhammad Abduh, which is not the common way people engage with the religion
+- The anti-Sufism in the Islam Modernization: 
+- Even in the secular Republic of Turkey, their Sufi tradition remains strong such as the famous Mevlevi order
+
+#### In the Pre-Modern Era
+
+The decentralized Sunni Islam, no hierachical structure like the Christian church, people be faithful in the way they understand, no excommunication as a result, since there are no authority that can account for what disqualifies someone as non Muslim.
+
+Sincere Faith as a performance, the ritual practices instructed by the Quran, also looks to individual circumstances to make adjustments accordingly
+
+#### Politically Engaged: Polical Activist
+
+People can say that religion is very important in their lives? But what do they really mean by that?
+
+#### Five Pillars which one as the indicator of religious commitment
+# Overview
+
+Overall, the survey finds that the majority of 
+
+When it comes to the attitude for Islamic movements, there are few consistent difference by age, gender and education
+
+Over half of the respondents observed their daily prayers, yet also another half of they did not agree to conflate being a muslim to praying five times a day.
+
+Obeserving Jumah prayer as a communal act, attend the mosque at this time, and over 80% of the respondants fast during the Ramadan, the constraints for women to attend mosque comparing to men.
+
+Yet, there does not exist such a boundary for reading the Quran
+
+Mosque Imam maintained as the top prefered occupation across the three societies, yet in Egypt being a soldier was ranked high as the second, 
